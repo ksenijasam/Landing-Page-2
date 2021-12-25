@@ -1,0 +1,129 @@
+body{
+    background-color: #F0F4F9;
+    overflow: scroll;
+    max-width: 1349px;
+}
+
+.span1{
+    padding: 15px;
+}
+
+.fa-envelope{
+    margin-left: 15px;
+}
+
+.content_holder{
+  width: 1140px;
+  margin:  auto;
+}
+
+#top_section, #middle_section{
+    display: flex;
+    font-family: Rubik;
+}
+
+
+#top_section{
+    height:56px;
+    background-color: #FDC800;
+    font-size: 13px;
+    
+}
+
+#middle_section{
+    height: 77px;
+    background-color: #FFFEFE;
+    font-size: 16px;
+}
+
+#icons{
+    float: right; 
+    letter-spacing: 4px; 
+    font-size: 16px;
+}
+
+#imag1{
+    width: 224px;
+    height: 45px;
+}
+
+.boxed{
+    border: 1px;
+    border-style: solid;
+    border-color: #F0F4F9;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+#btn, #btn2{
+    font-family: Rubik;
+    color: #616161 ;
+    background-color: #FDC800;
+    font-size: 16px;
+    border-color: #FDC800;
+}
+
+#navigation_bar{
+    display: inline-flex; 
+    float: right;  
+    align-items: center;
+}
+
+#imag2{
+    height: 481px;
+    width: 538px;
+}
+
+
+#div_text{
+    float: left;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 128px 0px;
+}
+
+#div_image{
+    float: right;
+    padding: 64px 0px;
+}
+
+.span2{
+    font-size: 23px;
+    font-family: Rubik;
+    font-weight: bold;
+    line-height: 2.5em
+}
+
+.span3{
+    font-size: 58px;
+    font-family: 'DM Serif Display';
+    line-height: 1.2em;
+}
+
+.span2, .span3{
+    color: #002147;
+}
+
+#btn2{
+    color: #616161 ;
+    background-color: #FDC800;
+    border-color: #FDC800;
+}
+
+
+#btn3{
+    color: #002147;
+    border-color: #002147;
+
+}
+
+#btn2, #btn3{
+    font-family: Rubik;
+    font-size: 14.4px;
+}
+
+#buttons{
+    padding: 40px 0px;
+}
